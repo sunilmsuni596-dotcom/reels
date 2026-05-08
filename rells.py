@@ -118,8 +118,8 @@ st.set_page_config(
 )
 
 # Display logo
-if os.path.exists("BMW.jpg"):
-    st.image("BMW.jpg")
+if os.path.exists("download (1).jpg"):
+    st.image("download (1).jpg")
 
 st.title("PragyanAI - Multimedia Merger")
 
