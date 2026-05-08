@@ -58,7 +58,7 @@ def handle_youtube_download(url):
             
         res_path = download_youtube_audio(url)
         if res_path:
-            st.session_state['audio_path'] = res_path
+            st.session_state['Samundar Me Dubki Lavawan Ringtone Download - MobCup.Com.Co.mp3'] = res_path
     except Exception as e:
         st.session_state['yt_error'] = str(e)
 
