@@ -31,7 +31,7 @@ def cleanup_temp_files():
         except:
             pass
 
-    st.session_state['audio_path'] = None
+    st.session_state['Samundar Me Dubki Lavawan Ringtone Download - MobCup.Com.Co.mp3'] = None
     st.session_state['yt_error'] = None
 
 
